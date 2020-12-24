@@ -16,4 +16,4 @@ fetch("http://localhost:7000/api/Employee/5fe339d9d7c4c70a4422e47e", {
   })
   .catch((err) => {
     console.log(err);
-  });
+  })
